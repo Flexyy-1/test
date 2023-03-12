@@ -1,0 +1,35 @@
+{
+    "name": "ipafileshack",
+    "identifier": " ",
+    "sourceURL": "t.me/IPA_FILES_HACK",
+    "apps": [
+        {
+            "name": "Tik Tok LRD",
+            "version": "28.4.0 + LRD2.1",
+            "versionDate": "2023-02-28T19:47:00+03:00",
+            "versionDescription": " ",
+            "downloadURL": "https://github.com/VVW-XX/downloadtt/raw/main/TikTok_28.4.0_LRD2.1_%40ttskarl.ipa",
+            "localizedDescription": "TikTok",
+            "iconURL": "https://github.com/VVW-XX/ICON/blob/main/41.png?raw=true",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 154140672,
+            "type": 1
+        },
+        {
+            "name": "Brawl stars",
+            "version": "47.000",
+            "versionDate": "2023-02-28T19:47:00+03:00",
+            "versionDescription": " ",
+            "downloadURL": "https://github.com/VVW-XX/downloadtt/raw/main/TikTok_28.4.0_LRD2.1_%40ttskarl.ipa",
+            "localizedDescription": "TikTok",
+            "iconURL": "https://github.com/VVW-XX/ICON/blob/main/41.png?raw=true",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 154140672,
+            "type": 1
+        }
+       
+
+    ]
+}
