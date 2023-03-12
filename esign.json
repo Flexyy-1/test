@@ -8,26 +8,74 @@
             "version": "28.4.0 + LRD2.1",
             "versionDate": "2023-02-28T19:47:00+03:00",
             "versionDescription": " ",
-            "downloadURL": "https://github.com/VVW-XX/downloadtt/raw/main/TikTok_28.4.0_LRD2.1_%40ttskarl.ipa",
+            "downloadURL": "https://github.com/Flexyy-1/test/releases/download/Release/TikTok.-.ipafileshack.ipa",
             "localizedDescription": "TikTok",
-            "iconURL": "https://github.com/VVW-XX/ICON/blob/main/41.png?raw=true",
             "tintColor": "018084",
             "isLanZouCloud": 0,
             "size": 154140672,
             "type": 1
         },
         {
-            "name": "Brawl stars",
-            "version": "47.000",
+            "name": "Null's brawl",
+            "version": "48.300",
             "versionDate": "2023-02-28T19:47:00+03:00",
             "versionDescription": " ",
-            "downloadURL": "https://github.com/Flexyy-1/test/releases/download/Release/Brawl.Stars.Redan.MS.-.ipafileshack.1.ipa",
-            "localizedDescription": "TikTok",
+            "downloadURL": "https://github.com/Flexyy-1/test/releases/download/Release/brawl48.300i2_6440c85c.2.ipa",
+            "localizedDescription": "Null's brawl",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 154140672,
+            "type": 1
+        },
+        {
+            "name": "Affinity photo",
+            "version": "1.10.5",
+            "versionDate": "2023-02-28T19:47:00+03:00",
+            "versionDescription": " ",
+            "downloadURL": "https://github.com/Flexyy-1/test/releases/download/Release/Affinity.Photo_1.10.5_LeTi.ipa",
+            "localizedDescription": "Affinity photo",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 154140672,
+            "type": 1
+        },
+        {
+            "name": "Luma Fusion",
+            "version": "3.2.2",
+            "versionDate": "2023-02-28T19:47:00+03:00",
+            "versionDescription": " ",
+            "downloadURL": "https://github.com/Flexyy-1/test/releases/download/Release/LumaFusion.-.KamoHacks.3.2.2.ipa",
+            "localizedDescription": "Luma Fusion",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 154140672,
+            "type": 1
+        },
+        {
+            "name": "Nice brawl",
+            "version": "48.300",
+            "versionDate": "2023-02-28T19:47:00+03:00",
+            "versionDescription": " ",
+            "downloadURL": "https://github.com/Flexyy-1/test/releases/download/Release/Nice.Brawl.-.ipafileshack.ipa",
+            "localizedDescription": "nice brawl",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 154140672,
+            "type": 1
+        },
+        {
+            "name": "Youtube",
+            "version": "18.08.1",
+            "versionDate": "2023-02-28T19:47:00+03:00",
+            "versionDescription": " ",
+            "downloadURL": "https://github.com/Flexyy-1/test/releases/download/Release/uYouPlus_18.08.1_2.3.1.ipa",
+            "localizedDescription": "Youtube",
             "tintColor": "018084",
             "isLanZouCloud": 0,
             "size": 154140672,
             "type": 1
         }
+    
        
 
     ]
