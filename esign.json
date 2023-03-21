@@ -86,8 +86,103 @@
             "isLanZouCloud": 0,
             "size": 154140672,
             "type": 1
+        },
+        {
+            "name": "FNAF",
+            "version": "2.0.2",
+            "versionDate": "2023-02-28T19:47:00+03:00",
+            "versionDescription": " ",
+            "downloadURL": "https://github.com/Flexyy-1/test/releases/download/Release/Five.Nights.at.Freddy.s.-.ipafileshack.ipa",
+            "localizedDescription": "FNAF",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 154140672,
+            "type": 1
+        },
+        {
+            "name": "FNAF 2",
+            "version": "2.0.2",
+            "versionDate": "2023-02-28T19:47:00+03:00",
+            "versionDescription": " ",
+            "downloadURL": "https://github.com/Flexyy-1/test/releases/download/Release/Five.Nights.at.Freddy.s.2.-.ipafileshack.ipa",
+            "localizedDescription": "FNAF 2",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 154140672,
+            "type": 1
+        },
+        {
+            "name": "FNAF 3",
+            "version": "2.0.2",
+            "versionDate": "2023-02-28T19:47:00+03:00",
+            "versionDescription": " ",
+            "downloadURL": "https://github.com/Flexyy-1/test/releases/download/Release/Five.Nights.at.Freddy.s.3.-.ipafileshack.ipa",
+            "localizedDescription": "FNAF 3",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 154140672,
+            "type": 1
+        },
+        {
+            "name": "FNAF 4",
+            "version": "2.0.2",
+            "versionDate": "2023-02-28T19:47:00+03:00",
+            "versionDescription": " ",
+            "downloadURL": "https://github.com/Flexyy-1/test/releases/download/Release/Five.Nights.at.Freddy.s.4.-.ipafileshack.ipa",
+            "localizedDescription": "FNAF 4",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 154140672,
+            "type": 1
+        },
+        {
+            "name": "FNAF SL",
+            "version": "1.0.1",
+            "versionDate": "2023-02-28T19:47:00+03:00",
+            "versionDescription": " ",
+            "downloadURL": "https://github.com/Flexyy-1/test/releases/download/Release/Sister.Location.-.ipafileshack.ipa",
+            "localizedDescription": "FNAF SL",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 154140672,
+            "type": 1
+        },
+        {
+            "name": "FNAF 6",
+            "version": "1.0.1",
+            "versionDate": "2023-02-28T19:47:00+03:00",
+            "versionDescription": " ",
+            "downloadURL": "https://github.com/Flexyy-1/test/releases/download/Release/FNaF.6.Pizzeria.Simulator.-.ipafileshack.ipa",
+            "localizedDescription": "FNAF 6",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 154140672,
+            "type": 1
+        },
+        {
+            "name": "UCN",
+            "version": "1.0.1",
+            "versionDate": "2023-02-28T19:47:00+03:00",
+            "versionDescription": " ",
+            "downloadURL": "https://github.com/Flexyy-1/test/releases/download/Release/Ultimate.Custom.Night.-.ipafileshack.ipa",
+            "localizedDescription": "UCN",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 154140672,
+            "type": 1
+        },
+        {
+            "name": "FNAF HW",
+            "version": "1.0.1",
+            "versionDate": "2023-02-28T19:47:00+03:00",
+            "versionDescription": " ",
+            "downloadURL": "https://github.com/Flexyy-1/test/releases/download/Release/Five.Nights.At.Freddy.s.HW.-.ipafileshack.ipa",
+            "localizedDescription": "FNAF HW",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 154140672,
+            "type": 1
         }
-    
        
 
     ]
